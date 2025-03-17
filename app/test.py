@@ -1,5 +1,5 @@
 # Test cases for the convert_abinitio_to_spark_sql function
-from convert import convert_abinitio_to_spark_sql
+from app.convert import convert_abinitio_to_spark_sql
 
 
 def run_test_cases():
